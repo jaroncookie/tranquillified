@@ -1,4 +1,4 @@
-hi im working on changing some of this come back in a week
+ive given up on this
 
 <p width="30%" align="right">
 <img width="400" height="430" alt="0400cd66078352b4b9dd3fca8dea5e8e" src="https://github.com/user-attachments/assets/e3d26a4e-7b35-4cd0-a167-96291b9387e5" style ="mix-blend-mode: multiply;" align="right">
